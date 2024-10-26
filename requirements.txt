@@ -1,0 +1,5 @@
+streamlit==1.23.1
+python-dotenv==1.0.0
+langchain-google-genai==0.1.2  # Adjust to the correct version you are using
+langchain-core==0.1.2  # Replace with correct version if different
+gTTS==2.3.2
